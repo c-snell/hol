@@ -62,17 +62,13 @@ nav:
     - 'Red Hat OpenShift': 'partners/redhat_openshift/index.md'
     - 'VMware': 'partners/vmware/index.md'
 #   - 'Google Anthos': 'partners/google_cloud_anthos/index.md'
-  - 'LEARN':
+  - LEARN:
     - 'Cloud-Native, Containers & DevOps': 'learn/containers101/index.md'
-    - 'Persistent Storage for Kubernetes Lab': 
-        - 'Overview': 'learn/persistent_storage/overview.md'
-        - 'Lab 1': 'learn/persistent_storage/lab1.md'
-        - 'Lab 2': 'learn/persistent_storage/lab2.md'
-        - 'Lab 3': 'learn/persistent_storage/lab3.md'
     - 'For HPE partners:<br />&nbsp;&nbsp; Introduction to Containers': 'learn/introduction_to_containers/index.md'
     - 'Introduction to CSI Primitives': 'learn/csi_primitives/index.md'
     - 'Video Gallery': 'learn/video_gallery/index.md'
     - 'Interactive CSI Workshop': 'learn/csi_workshop/index.md'
+    - 'Persistent Storage for Kubernetes Lab': 'learn/persistent_storage/index.md'
   - COMMUNITY:
     - 'HPE Developer Community': 'https://developer.hpe.com'
     - 'Sign up to HPE DEV on Slack': 'https://slack.hpedev.io'
